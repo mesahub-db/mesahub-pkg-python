@@ -1,6 +1,6 @@
-# mesahub Python SDK
+# MesaHub Python SDK
 
-Python SDK for [mesahub](https://mesahub.app) — access SQLite databases from Python with raw SQL or a high-level table API.
+Python SDK for [MesaHub](https://mesahub.app) — access SQLite databases from Python with raw SQL or a high-level table API.
 
 ## Installation
 
