@@ -1,0 +1,26 @@
+mesahub/management.py
+  h_7a2f4c8f0473b8 1-246
+mesahub/__init__.py
+  s_0329c12d3cb7a7::t_04a1620856ffc9 11,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "678c6675507b3110e7547a20941dca1ef1a575fb",
+  "prompts": {},
+  "humans": {
+    "h_7a2f4c8f0473b8": {
+      "author": "Devendra Pratap Singh <dps.manit@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_0329c12d3cb7a7": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "b6212e7f-621d-4e15-bf87-1f7bc9edb0c4",
+        "model": "unknown"
+      },
+      "human_author": "Devendra Pratap Singh <dps.manit@gmail.com>"
+    }
+  }
+}
