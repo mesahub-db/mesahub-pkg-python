@@ -8,11 +8,13 @@ from .errors import (
     RateLimitError,
     ValidationError,
 )
+from .management import MesahubManagementClient
 from .table import TableHandle
 from .types import ExecResult, FileRecord, QueryResult
 
 __all__ = [
     "MesahubClient",
+    "MesahubManagementClient",
     "parse_mesahub_url",
     "DatabaseHandle",
     "TableHandle",
