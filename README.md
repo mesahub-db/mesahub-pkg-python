@@ -16,8 +16,8 @@ Requires Python 3.11+ and [`httpx`](https://www.python-httpx.org/).
 from mesahub import MesahubClient
 
 client = MesahubClient(
-    api_key="shs_your_api_key",       # from mesahub.app → Settings → API Keys
-    api_url="https://api.mesahub.app", # or your self-hosted core URL
+    api_key="shs_your_api_key",        # from mesahub.app → Settings → API Keys
+    api_url="https://api.mesahub.app",  # or your dedicated / self-hosted instance URL
 )
 
 db    = client.db("my-app-db")        # your database slug from the dashboard
